@@ -1,0 +1,18 @@
+# Site settings
+title: Rohan's Notes
+email: chaudhary85.rohan@gmail.com
+description: "I dump my notes and thoughts here."
+baseurl: ""
+url: "http://rohanc.github.io"
+twitter_username: rohanc
+github_username:  rohanc
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
